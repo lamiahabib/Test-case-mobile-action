@@ -1,2 +1,2 @@
-# Test-case-mobile-action
+# Manual Testing Practice (Test Case)
 A descriptive test case of a website "MobileAction"
